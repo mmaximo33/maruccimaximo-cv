@@ -10,7 +10,7 @@ Mas info en [LinkedIn](https://www.linkedin.com/in/marucci-maximo/)
  Diseño, desarrollo, implementacion y manteniento de soluciones orientadas a ecommerce.
 Prefrencia backend, base de datos, monitoreo, analisis y servidores.
 
-  - Gestion de proyectosy equipos
+  - Gestion de proyectos y equipos
   - Monitoreo de servidor y analisis de performance
   - Actualizaciones de servicios 
   - Integraciones
