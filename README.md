@@ -15,7 +15,8 @@ Prefrencia backend, base de datos, monitoreo, analisis y servidores.
   - Actualizaciones de servicios 
   - Integraciones
   - Migracion y upgrade de tecnologias
-  - Construccion de modulos customer
+  - Testing, code review y standares de calida
+  - Construccion de modulos custom
   - Documentacion de procesos
 
 **_Technologies used:_** PHP · SQL · Docker · WHM · Datadog · Nginx · cPanel · apache · JavaScript · NewRelic · Magento · CSS · HTML5 · Git · Prestashop · JSON · Bootstrap · MySQL · Procesos Logicos
