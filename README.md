@@ -15,7 +15,7 @@ Prefrencia backend, base de datos, monitoreo, analisis y servidores.
   - Actualizaciones de servicios 
   - Integraciones
   - Migracion y upgrade de tecnologias
-  - Testing, code review y standares de calida
+  - Testing, code review y standares de calidad
   - Construccion de modulos custom
   - Documentacion de procesos
 
