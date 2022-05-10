@@ -1,14 +1,22 @@
-# Marucci Maximo
+# Marucci Maximo :rocket:
 _Analyst Developer in Argentina Santa fe_ <br>
 
 Mas info en [LinkedIn](https://www.linkedin.com/in/marucci-maximo/)
 
-## 👩🏼‍💻 Experiencia
+## :computer: Experiencia 
 
 ### @ [Serfe](https://www.linkedin.com/company/serfe-com/) **+2 años**
 **Analyst Developer**  _(dic. 2019 - actualidad)_ <br>
-  - Diseño, desarrollo, implementacion y manteniento de soluciones orientadas a ecommerce.
-  - Prefrencia backend, base de datos, monitoreo, analisis y servidores.
+ Diseño, desarrollo, implementacion y manteniento de soluciones orientadas a ecommerce.
+Prefrencia backend, base de datos, monitoreo, analisis y servidores.
+
+  - Gestion de proyectosy equipos
+  - Monitoreo de servidor y analisis de performance
+  - Actualizaciones de servicios 
+  - Integraciones
+  - Migracion y upgrade de tecnologias
+  - Construccion de modulos customer
+  - Documentacion de procesos
 
 **_Technologies used:_** PHP · SQL · Docker · WHM · Datadog · Nginx · cPanel · apache · JavaScript · NewRelic · Magento · CSS · HTML5 · Git · Prestashop · JSON · Bootstrap · MySQL · Procesos Logicos
 <br><br>
