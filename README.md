@@ -14,7 +14,7 @@ Mas info en [LinkedIn](https://www.linkedin.com/in/marucci-maximo/)
 <br><br>
 
 ### @ [TEL3 Ingenieria](https://www.linkedin.com/company/tel-3-sa/) **12 años**
-**Developer apps & tools**  _(abr. 2014 a ago 2019) **5 años 5 meses**_ <br>
+**Developer apps & tools** _(abr. 2014 a ago 2019) **5 años 5 meses**_ <br>
 Desarrollo sistemas de gestión y/o herramientas orientadas a la obra o tareas administrativas. Automatizando y optimizando procesos para las diferentes áreas de la compañía por medio de aplicaciones web y/o mobile.
 
 Servicio a clientes internos: Operativas, RRHH, Sistema de gestion integral (Normas ISO), Compras, Logística (Taller mecánico, equipos pesados/livianos, herramientas), entre otras.
@@ -37,7 +37,7 @@ Desarrollamos un ecosistema donde el personal de campo por medio de una smartpho
 **_Technologies used:_** PHP · SQL · Symfony · Docker · Linux · JavaScript · VisualBasic · React.js · Node.js · Laravel · CodeIgniter · Silex · PhoneGap · CordovaJs · CSS · HTML5 · Git · Angular · JSON · Bootstrap · MySQL · Procesos Logicos
 <br><br>
 
-**Analista funcional región AMBA** @ @ [TEL3 Ingenieria](https://www.linkedin.com/company/tel-3-sa/) _(ene. 2013 - mar 2014) **1 año 3 meses**_ <br>
+**Analista funcional región AMBA** _(ene. 2013 - mar 2014) **1 año 3 meses**_ <br>
 Gracias a la experiencia adquirida con el cierre de región LITORAL, surge la propuesta de asesorar y asistir en los procedimientos para las gestiones permisos de obra, certificación, verificación técnica, gestión de materiales, planos de obra, facturación al cliente y pago a proveedores por trabajos, etc realizados en región AMBA.
 
   - Coordinación, proyección y cumplimiento de metas administrativas.
@@ -48,7 +48,7 @@ Gracias a la experiencia adquirida con el cierre de región LITORAL, surge la pr
 **_Technologies used:_** SAP ERP · VISUAL BASIC · SQL 
 <br><br>
 
-**Responsable Oficina Tecnica Litoral** @ @ [TEL3 Ingenieria](https://www.linkedin.com/company/tel-3-sa/) _(may. 2011 - dic 2012) **1 año 8 meses**_ <br>
+**Responsable Oficina Tecnica Litoral** _(may. 2011 - dic 2012) **1 año 8 meses**_ <br>
   - Apoyo a jefatura de obra y supervisores.
 
   - Correccion de desvios y regularizacion de historicos
@@ -64,7 +64,7 @@ Sedes Rosario, Entre Rios, Santa Fe
 **_Technologies used:_** SAP ERP · VISUAL BASIC · SQL
 <br><br>
 
-**Referente certificacion sede SFN** @ @ [TEL3 Ingenieria](https://www.linkedin.com/company/tel-3-sa/) _(sept. 2007 - abr 2011) **3 años 8 meses**_ <br>
+**Referente certificacion sede SFN** _(sept. 2007 - abr 2011) **3 años 8 meses**_ <br>
   - Responsable cierre de sede, cumplimientos de hitos administrativos y operativos relacionados a facturacion, produccion, materiales, verificacion tecnica, conforme a obra.
 
   - Supervision de obra, replanteos, ejecucion y puesta en servicio.
