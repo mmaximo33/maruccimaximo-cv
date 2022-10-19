@@ -7,17 +7,17 @@ Mas info en [LinkedIn](https://www.linkedin.com/in/marucci-maximo/)
 
 ### @ [Serfe](https://www.linkedin.com/company/serfe-com/) **+2 años**
 **Analyst Developer**  _(dic. 2019 - actualidad)_ <br>
- Diseño, desarrollo, implementacion y manteniento de soluciones orientadas a ecommerce.
-Prefrencia backend, base de datos, monitoreo, analisis y servidores.
+Planificacion, diseño, desarrollo, implementación, mantenimiento y mejora continua de procesos o soluciones orientadas orientadas al comercio electrónico y enfocadas a la satisfacción del cliente.
 
-  - Gestion de proyectosy equipos
-  - Monitoreo de servidor y analisis de performance
-  - Actualizaciones de servicios 
-  - Integraciones
-  - Migracion y upgrade de tecnologias
-  - Testing, code review y standares de calidad
-  - Construccion de modulos custom
-  - Documentacion de procesos
+Preferencia backend, base de datos, monitoreo, analisis de datos, servidores, gestion de proyectos
+
+- Planificaciones, estimaciones, gestión de proyectos, direccion de equipos
+- Monitoreo de servidores, análisis de rendimiento y optimizaciones
+- Instalacion, actualizacion e implementacion de servicios e integraciones
+- CodeReview, testing y estandares calidad
+- Creacion, construccion y modificacion de modulos de terceros y personalizados
+- Documentación procesos, usuarios y desarrollador
+- Creacion y mejora de procesos optimizando o automatizando rutinas
 
 **_Technologies used:_** PHP · SQL · Docker · WHM · Datadog · Nginx · cPanel · apache · JavaScript · NewRelic · Magento · CSS · HTML5 · Git · Prestashop · JSON · Bootstrap · MySQL · Procesos Logicos
 <br><br>
