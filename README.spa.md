@@ -1,16 +1,25 @@
 # Marucci Maximo
-_Analyst Developer in Argentina Santa fe_ <br>
+_Analyst Developer Fullstack en Argentina Santa fe_ <br>
 
 Mas info en [LinkedIn](https://www.linkedin.com/in/marucci-maximo/)
 
 ## 💻 Experiencia 
 
 ### @ [Serfe](https://www.linkedin.com/company/serfe-com/) **+2 años**
-**Analyst Developer**  _(dic. 2019 - actualidad)_ <br>
+**Analyst Developer Fullstack**  _(dic. 2019 - actualidad)_ <br>
 Planificacion, diseño, desarrollo, implementación, mantenimiento y mejora continua de procesos o soluciones orientadas orientadas al comercio electrónico y enfocadas a la satisfacción del cliente.
 
 Preferencia backend, base de datos, monitoreo, analisis de datos, servidores, gestion de proyectos
 
+**Casos de exito:**
+- Creación de módulos integradores para Magento, WooComerce, Prestashop para conectar importante Marketplace
+- Auditorias a proveedores
+- Actualizaciones de Magento from 2.x to 2.x
+- Migraciones 
+- Optimizaciones en rendimiento y seo.
+- Integraciones por medio de Api
+
+**Tareas habituales:**
 - Planificaciones, estimaciones, gestión de proyectos, direccion de equipos
 - Monitoreo de servidores, análisis de rendimiento y optimizaciones
 - Instalacion, actualizacion e implementacion de servicios e integraciones
@@ -19,7 +28,7 @@ Preferencia backend, base de datos, monitoreo, analisis de datos, servidores, ge
 - Documentación procesos, usuarios y desarrollador
 - Creacion y mejora de procesos optimizando o automatizando rutinas
 
-**_Technologies used:_** PHP · SQL · Docker · WHM · Datadog · Nginx · cPanel · apache · JavaScript · NewRelic · Magento · CSS · HTML5 · Git · Prestashop · JSON · Bootstrap · MySQL · Procesos Logicos
+**_Technologies used:_** Magento · Prestasho · WooCommerce· PHP · SQL · Docker · WHM · Datadog · Nginx · cPanel · apache · JavaScript · NewRelic · CSS · HTML5 · Git p · JSON · Bootstrap · MySQL · Procesos Logicos
 <br><br>
 
 ### @ [TEL3 Ingenieria](https://www.linkedin.com/company/tel-3-sa/) **12 años**
