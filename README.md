@@ -1,16 +1,25 @@
 # Marucci Maximo
-_Analyst Developer in Argentina Santa fe_ <br>
+_Analyst Developer Fullstack in Argentina Santa fe_ <br>
 
 More info [LinkedIn](https://www.linkedin.com/in/marucci-maximo/?locale=en_US)
 
 ## 💻 Experience 
 
 ### @ [Serfe](https://www.linkedin.com/company/serfe-com/) **+3 años**
-**Analyst Developer**  _(dic. 2019 - actualidad)_ <br>
+**Analyst Developer Fullstack**  _(dic. 2019 - actualidad)_ <br>
 Planning, design, development, implementation, maintenance and continuous improvement of processes or solutions oriented towards electronic commerce and focused on customer satisfaction.
 
 Backend preference, database, monitoring, data analysis, servers, project management
 
+**Success stories**:
+- Creation of integration module for Magento, WooCommerce, Prestashop for connect important Marketplace
+- Supplier audits
+- Magento from 2.x to 2.x upgrades
+- Migrations
+- Optimizations in performance and seo.
+- Integrations through Api
+
+**Usual Tasks:**
 - Planning, estimates, project management, team management
 - Server monitoring, performance analysis and optimizations
 - Installation, update and implementation of services and integrations
@@ -19,7 +28,7 @@ Backend preference, database, monitoring, data analysis, servers, project manage
 - Documentation processes, users and developer
 - Creation and improvement of processes optimizing or automating routines
 
-**_Technologies used:_** PHP · SQL · Docker · WHM · Datadog · Nginx · cPanel · apache · JavaScript · NewRelic · Magento · CSS · HTML5 · Git · Prestashop · JSON · Bootstrap · MySQL · Procesos Logicos
+**_Technologies used:_** PHP · SQL · Magento · WooCommerce · PrestaShop · Docker · Python · Bash · Apache · Datadog · Nginx · JavaScript · NewRelic · Laravel · Git · Mejora de procesos · WordPress · LinuxAptitudes
 <br><br>
 
 ### @ [TEL3 Ingenieria](https://www.linkedin.com/company/tel-3-sa/) **12 años**
