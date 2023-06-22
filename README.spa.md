@@ -5,7 +5,7 @@ Mas info en [LinkedIn](https://www.linkedin.com/in/marucci-maximo/)
 
 ## 💻 Experiencia 
 
-### @ [WebImpacto - Consultorra de Negocios Digitales](https://www.linkedin.com/company/webimpacto-consulting-sl) 
+### @ [WebImpacto - Consultora de Negocios Digitales](https://www.linkedin.com/company/webimpacto-consulting-sl) 
 **Magento Developer**  _(feb. 2023 - actualidad)_ <br>
 
 ### @ [Serfe](https://www.linkedin.com/company/serfe-com/) **3 años 2 meses**
