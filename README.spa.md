@@ -1,99 +1,83 @@
 # Marucci Maximo
-_Analyst Developer Fullstack en Argentina Santa fe_ <br>
+_Analyst Developer Ecommerce_ <br>
 
 Mas info en [LinkedIn](https://www.linkedin.com/in/marucci-maximo/)
 
 ## 💻 Experiencia 
 
-### @ [Serfe](https://www.linkedin.com/company/serfe-com/) **+2 años**
-**Analyst Developer Fullstack**  _(dic. 2019 - actualidad)_ <br>
-Planificacion, diseño, desarrollo, implementación, mantenimiento y mejora continua de procesos o soluciones orientadas orientadas al comercio electrónico y enfocadas a la satisfacción del cliente.
+### @ [WebImpacto - Consultorra de Negocios Digitales](https://www.linkedin.com/company/webimpacto-consulting-sl) 
+**Magento Developer**  _(feb. 2023 - actualidad)_ <br>
+
+### @ [Serfe](https://www.linkedin.com/company/serfe-com/) **3 años 2 meses**
+**Analyst Developer Fullstack**  _(dic. 2019 - ene. 2023)_ <br>
+Diseño, planificacion, desarrollo, implementación, mantenimiento y mejora continua de procesos o soluciones orientadas a ecommerce y enfocadas a la satisfacción del cliente.
 
 Preferencia backend, base de datos, monitoreo, analisis de datos, servidores, gestion de proyectos
 
 **Casos de exito:**
-- Creación de módulos integradores para Magento, WooComerce, Prestashop para conectar importante Marketplace
-- Auditorias a proveedores
-- Actualizaciones de Magento from 2.x to 2.x
-- Migraciones 
-- Optimizaciones en rendimiento y seo.
-- Integraciones por medio de Api
+  - Creación de módulos integradores en Magento, WooComerce y Prestashop para conectar con Marketplace de Linio/Falabella
+  - Migraciones y actualizaciones de Magento
+  - Optimizaciones y automatizaciones de procesos.
+  - Integraciones con servicios
 
 **Tareas habituales:**
-- Planificaciones, estimaciones, gestión de proyectos, direccion de equipos
-- Monitoreo de servidores, análisis de rendimiento y optimizaciones
-- Instalacion, actualizacion e implementacion de servicios e integraciones
-- CodeReview, testing y estandares calidad
-- Creacion, construccion y modificacion de modulos de terceros y personalizados
-- Documentación procesos, usuarios y desarrollador
-- Creacion y mejora de procesos optimizando o automatizando rutinas
+  - Planificaciones, estimaciones, gestión de proyectos, direccion de equipos
+  - Monitoreo de servidores, análisis de rendimiento y optimizaciones
+  - Creacion y automatizacion de rutas o procesos
+  - Instalacion, actualizacion e implementacion de servicios e integraciones
+  - CodeReview, testing y estandares calidad
+  - Diseño, construccion y modificacion de modulos de terceros o personalizados
+  - Documentación de desarrollador y usuario
+  - Mentorias, seguimiento y capacitacion a miembros del equipo
 
-**_Technologies used:_** Magento · Prestasho · WooCommerce· PHP · SQL · Docker · WHM · Datadog · Nginx · cPanel · apache · JavaScript · NewRelic · CSS · HTML5 · Git p · JSON · Bootstrap · MySQL · Procesos Logicos
+**_Tecnologias:_** Adobe Commerce · Planificación de procesos · Liderazgo de equipos · Planificación de proyectos · PHP · SQL · Magento · WooCommerce · PrestaShop · Docker · Python · Bash · Apache · Datadog · Nginx · JavaScript · NewRelic · Laravel · Git · Mejora de procesos · WordPress · Linux
 <br><br>
 
-### @ [TEL3 Ingenieria](https://www.linkedin.com/company/tel-3-sa/) **12 años**
-**Developer apps & tools** _(abr. 2014 a ago 2019) **5 años 5 meses**_ <br>
-Desarrollo sistemas de gestión y/o herramientas orientadas a la obra o tareas administrativas. Automatizando y optimizando procesos para las diferentes áreas de la compañía por medio de aplicaciones web y/o mobile.
+### @ [TEL3 Ingenieria](https://www.linkedin.com/company/tel-3-sa/) **12 años 4 meses**
+**Developer apps & tools** _(ene. 2014 a dic 2019) **6 años**_ <br>
+Desarrollo de sistemas y herramientas de gestión orientadas a obra o tareas administrativas. Automatización y optimización de procesos para las diferentes áreas de la empresa a través de aplicaciones webs y mobile.
 
-Servicio a clientes internos: Operativas, RRHH, Sistema de gestion integral (Normas ISO), Compras, Logística (Taller mecánico, equipos pesados/livianos, herramientas), entre otras.
-  - Desarrollamos una aplicacion web con diferentes modulos segun el cliente o area que requeria automatizar un proceso. Entre ellos se encuentran, modulos de 
-     - Seguimiento de mantenimiento de vehiculos. 
-     - Sistema de produccion Telecomunicaciones (Produccion, Facturacion, Materiales, VT, Hitos de cumplimientos, Etc)
-     - Auditorias del Sistema de Gestion Integral (SGI). Normas ISO18001 ISO9001 ISO14001
-     - Calificacion interna por depenseño 
-     - Seguimiento de fondos fijos
-     - Encuesta organizacional
-     - Calificaciones de desenpeño
+**Clientes externos:** Telecomunicaciones (Arsat, Telecom, Telecentro), Energía (Edenor y Edesur), Higiene urbana (GCABA)
 
-Servicios para obras de clientes externos tales como: 
-  - Telecomunicación: Telecom, Arsat, Telecentro
-  - Energía: Edenor, Edesur
-  - Higiene urbana: GCABA
+Creamos un ecosistema en el que nuestro personal de campo, desde cualquier ubicación del país, captura el progreso de las obras utilizando smartphones. Esta recopilación de datos incluye información importante como la geolocalización, notas, fotos, videos, entre otros. Estos datos son enviados y recibidos por nuestro sistema, donde son procesados en tiempo real para generar información relevante y de rápida visualización, como mapas, informes, gráficos y otros elementos que facilitan el análisis a un nivel más alto 
 
-Desarrollamos un ecosistema donde el personal de campo por medio de una smartphone capturaba los avances de obra con datos importantes, referencias, coordenadas, fotos, videos, adjuntos. Estos eran enviados a nuestro sistema y procesados para obtener mapas, reportes, graficos u otros elementos que pudieran ser util para analizar a alto nivel.
+**Cliente internos:** Operaciones, RRHH, Sistema Integrado de Gestión (Normas ISO), Compras, Logística (Taller Mecánico, Equipos Pesados/Livianos, Herramientas), entre otros.
 
-**_Technologies used:_** PHP · SQL · Symfony · Docker · Linux · JavaScript · VisualBasic · React.js · Node.js · Laravel · CodeIgniter · Silex · PhoneGap · CordovaJs · CSS · HTML5 · Git · Angular · JSON · Bootstrap · MySQL · Procesos Logicos
+Desarrollamos una aplicación web que ofrece diversos módulos personalizados para cada cliente o área que necesite automatizar un proceso. Estos módulos incluyen tareas como:
+  - Sistema de producción de telecomunicaciones (Gestion de producción, facturación, materiales, verificacion tecnica, cumplimiento de hitos, etc)
+  - Auditorías del Sistema de Gestión Integral (SGI). Normas ISO18001 ISO9001 ISO14001
+  - Seguimiento y mantenimiento de vehículos.
+  - Calificación de desempeño del personal y proveedores
+  - Encuesta organizacional
+  - otros
+
+**_Tecnologias:_** Liderazgo · Capacidad de análisis · Metodologías ágiles · Scrum · Desarrollo de productos · Planificación de proyectos · PHP · SQL · Symfony · Docker · JavaScript · React.js · Node.js · Laravel · HTML5 · Git · Mejora de procesos · Angular · WordPress · Linux
 <br><br>
 
-**Analista funcional región AMBA** _(ene. 2013 - mar 2014) **1 año 3 meses**_ <br>
-Gracias a la experiencia adquirida con el cierre de región LITORAL, surge la propuesta de asesorar y asistir en los procedimientos para las gestiones permisos de obra, certificación, verificación técnica, gestión de materiales, planos de obra, facturación al cliente y pago a proveedores por trabajos, etc realizados en región AMBA.
+**Analista funcional - AMBA Region** _(ene. 2013 - dic 2013) **1 año**_ <br>
+Con la experiencia adquirida con el cierre de la región LITORAL, surge la
+propuesta de asesorar y asistir en todos los procesos administrativos en
+region AMBA
 
-  - Coordinación, proyección y cumplimiento de metas administrativas.
-  - Organización, dirección, supervisión y monitoreo de procedimientos.
-  - Optimización y mejora continua de los procesos.
-  - Evaluación y capacitación del personal según responsabilidad
+  - Coordinación, proyección y cumplimiento de metas/hitos.
+  - Organización, dirección, supervisión y seguimiento de los procedimientos.
+  - Optimización, automatizacion y mejora continua de procesos.
+  - Evaluación y capacitación del equipo
 
-**_Technologies used:_** SAP ERP · VISUAL BASIC · SQL 
+**_Tecnologias:_** Negociación · Trabajo en equipo · Optimización de procesos · Planificación de procesos · Liderazgo de equipos · Gestión de proyectos · Planificación de proyectos · Planificación estratégica · Mejora de procesos
 <br><br>
 
-**Responsable Oficina Tecnica Litoral** _(may. 2011 - dic 2012) **1 año 8 meses**_ <br>
-  - Apoyo a jefatura de obra y supervisores.
+**Referente oficina tecnica - LITORAL Region** _(sept. 2007 - dic 2012) **5 años 4 meses**_ <br>
+Region litoral (La Capital, Entre Rios, Rosario)
 
-  - Correccion de desvios y regularizacion de historicos
-  - Coordinacion, proyeccion y cumplimientos de hitos administrativos. 
-  - Organizacion y mejora continua de los procedimientos y seguimientos generales.
-  - Induccion y capacitacion al equipo a cargo (4 compañeros)
-  - Orientados a procesos administrativos de certificaciones, verificacion tecnica, gestiona de materiales, facturacion y pago a proveedores.
+Responsable de procesos administrativo y cumplimiento de hitos relacionados a obras de telecomunicaciones (TELECOM)
 
-  - Responsable Verificacion tecnica y conforme a obras.
+  - Apoyo administrativo a supervision y jefatura de obra.
+  - Induccion y formacion de equipo (Certificacion de obras evolutivas y preventivas, gestion de materiales, verificaciones tecnica, conformidad de obra, facturacion y produccion)
+  - Optimizacion y automatizacion de procesos en busca de la mejora continua
+  - Coordinacion, proyeccion y cumplimiento de hitos, inicio a fin.
+  - Supervision de obra, replanteo, ejecucion y puesta en marcha
+  - Cierre de centros operativos a nivel administrativo (cliente y proveedores)
 
-Sedes Rosario, Entre Rios, Santa Fe
-
-**_Technologies used:_** SAP ERP · VISUAL BASIC · SQL
-<br><br>
-
-**Referente certificacion sede SFN** _(sept. 2007 - abr 2011) **3 años 8 meses**_ <br>
-  - Responsable cierre de sede, cumplimientos de hitos administrativos y operativos relacionados a facturacion, produccion, materiales, verificacion tecnica, conforme a obra.
-
-  - Supervision de obra, replanteos, ejecucion y puesta en servicio.
-  - Certificacion de obras de inversion y mantenimiento preventivo.
-
-  - Certificacion de red de dispersion, alta y mantenimiento de abonados (Instalaciones, reconstrucciones, telefonia publica, reclamos y grandes clientes).
-
-  - Soporte administrativo 
-  - Control de stock por medio de SAP.
-  - Seguimiento interno de materiales, entrada y salida por remitos.
-
-**_Technologies used:_** SAP ERP · VISUAL BASIC · 
-<br><br>
+**_Tecnologias:_** Microsoft Excel · Comunicación · Mejora continua · Optimización de procesos · Liderazgo de equipos · Gestión de proyectos · Planificación de proyectos · Planificación estratégica · Mejora de procesos · SAP ERP · Visual Basic for Applications (VBA)
 
