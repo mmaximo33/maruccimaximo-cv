@@ -1,11 +1,11 @@
 # Marucci Maximo
-_Analyst Developer Ecommerce_ <br>
+_Consultor de expansion | Freelancer | Ecommerce | ProjectManager | Magento Developer_ <br>
 
 Mas info en | [LinkedIn](https://www.linkedin.com/in/marucci-maximo/) | [GitHub](https://github.com/mmaximo33/EFDE) | [Linktree](https://linktr.ee/marucci.maximo)
 
 ## 💻 Experiencia 
 
-### @ [Consultor de expancion](https://www.linkedin.com/in/marucci-maximo/) 
+### @ [Consultor de expansion](https://www.linkedin.com/in/marucci-maximo/) 
 **Freelancer | Ecommerce | ProjectManager | Magento Developer**  _(dic. 2022 - actualidad)_ <br>
 
 Confecciono y ejecuto todo el proceso **end-to-end** acompañando a compañias y emprendedos en el camino de digitalizar su marca de productos o servicios
