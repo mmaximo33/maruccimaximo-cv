@@ -1,12 +1,24 @@
 # Marucci Maximo
 _Analyst Developer Ecommerce_ <br>
 
-Mas info en [LinkedIn](https://www.linkedin.com/in/marucci-maximo/)
+Mas info en 
+- [LinkedIn](https://www.linkedin.com/in/marucci-maximo/)
+- [GitHub](https://github.com/mmaximo33/EFDE)
+- [Linktree](https://linktr.ee/marucci.maximo)
 
 ## 💻 Experiencia 
 
+### @ [Consultor independiente](https://www.linkedin.com/in/marucci-maximo/) 
+**Freelancer | Ecommerce | ProjectManager | Magento Developer**  _(dic. 2022 - actualidad)_ <br>
+Acompaño a empresas y emprendedores en el proceso de digitalizacion de sus productos o servicios
+Diseño, planificacion, desarrollo, implementación, mantenimiento y mejora continua de procesos o soluciones orientadas a ecommerce y enfocadas a la satisfacción del cliente 
+
+
+
 ### @ [WebImpacto - Consultora de Negocios Digitales](https://www.linkedin.com/company/webimpacto-consulting-sl) 
-**Magento Developer**  _(feb. 2023 - actualidad)_ <br>
+**Magento Developer**  _(feb. 2023 - jun 2023)_ <br>
+Diseño, planificacion, desarrollo, implementación, mantenimiento y mejora continua de procesos o soluciones orientadas a ecommerce y enfocadas a la satisfacción del cliente. 
+
 
 ### @ [Serfe](https://www.linkedin.com/company/serfe-com/) **3 años 2 meses**
 **Analyst Developer Fullstack**  _(dic. 2019 - ene. 2023)_ <br>
