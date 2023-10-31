@@ -1,5 +1,5 @@
 # Marucci Maximo
-_Consultor de expansion | Freelancer | Ecommerce | ProjectManager | Magento Developer_ <br>
+_Consultor de expansion | Freelancer | Ecommerce_ <br>
 
 Mas info en | [LinkedIn](https://www.linkedin.com/in/marucci-maximo/) | [GitHub](https://github.com/mmaximo33/EFDE) | [Linktree](https://linktr.ee/marucci.maximo)
 
