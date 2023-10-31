@@ -1,10 +1,7 @@
 # Marucci Maximo
 _Analyst Developer Ecommerce_ <br>
 
-Mas info en 
-- [LinkedIn](https://www.linkedin.com/in/marucci-maximo/)
-- [GitHub](https://github.com/mmaximo33/EFDE)
-- [Linktree](https://linktr.ee/marucci.maximo)
+Mas info en | [LinkedIn](https://www.linkedin.com/in/marucci-maximo/) | [GitHub](https://github.com/mmaximo33/EFDE) | [Linktree](https://linktr.ee/marucci.maximo)
 
 ## 💻 Experiencia 
 
