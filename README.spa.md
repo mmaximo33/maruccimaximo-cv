@@ -13,8 +13,8 @@ Audito, planifico y ejecuto todo el proceso end-to-end acompañando a compañias
 Diseño, planificacion, desarrollo, implemento, mantengo y proponga cambios en busca de la mejora continua de procesos o soluciones orientadas a ecommerce y enfocadas a la satisfacción del cliente para mejorar su alcance y potenciar sus resultados.
 
 
-### @ [WebImpacto - Consultora de Negocios Digitales](https://www.linkedin.com/company/webimpacto-consulting-sl) 
-**Magento Developer**  _(ene. 2023 - jun 2023)_ <br> **6 meses**
+### @ [WebImpacto - Consultora de Negocios Digitales](https://www.linkedin.com/company/webimpacto-consulting-sl) **6 meses**
+**Magento Developer**  _(ene. 2023 - jun 2023)_ <br> 
 Diseño, planificacion, desarrollo, implementación, mantenimiento y mejora continua de procesos o soluciones orientadas a ecommerce y enfocadas a la satisfacción del cliente. 
 
 
